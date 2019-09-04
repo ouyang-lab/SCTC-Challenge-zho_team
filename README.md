@@ -3,7 +3,7 @@ DREAM Single Cell Transcriptomics Challenge
 
 The code includes three parts:  
 1. Sub challenge
-   Input: dge_raw.txt, dge_normalized.txt, binarized_bdtnp.csv, geometry.txt (https://www.synapse.org/#!Synapse:syn16782360)
+   Input: dge_raw.txt, dge_normalized.txt, binarized_bdtnp.csv, geometry.txt (https://www.synapse.org/#!Synapse:syn16782360).
    Users should register in Synapse (https://www.synapse.org/) using email address and agree to the dataset Conditions for use (https://www.synapse.org/#!Synapse:syn15665609/wiki/583240), then they can download these files
    
    Code: challenge_code_1.R, challenge_code_2.R, challenge_code_3.R, challenge_utils.R. 
