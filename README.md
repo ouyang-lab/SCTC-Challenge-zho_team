@@ -34,3 +34,4 @@ The code includes three parts:
    
    Output: results in the manuscript 
  
+DOI: https://doi.org/10.5281/zenodo.3592532
